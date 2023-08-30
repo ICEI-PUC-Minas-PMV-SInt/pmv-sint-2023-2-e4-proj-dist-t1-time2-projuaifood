@@ -4,14 +4,9 @@
 # UaiFood
 
 # Visão do Produto
-> Ter uma visão clara do produto é essencial para entender como as primeiras peças do quebra-cabeça do seu negócio se encaixarão. Essa
-> visão deve capturar a essência do valor que seu negócio oferece e transmitir uma mensagem clara e cativante para seus clientes. 
-> Utilize o seguinte modelo para criar a visão do seu produto:
+> Para os pequenos produtores de uma determinada região, que tem a terra como sua principal fonte de sustento e cuja sua grande dificuldade é comercializar o que produzem no comércio local, e não precisando sair às escuras sem garantia de venda do seu produto. Consequentemente será privilegiado o revendedor que terá produtos saudáveis e frescos todos os dias para oferecerem aos seus clientes, assim não dependendo de intermediários e necessitando à título de economia estocar produtos, correndo o risco de perder seu investimento, especialmente em períodos de clima quente.
 
-> Para [o nome do cliente final], cujo [o problema que precisa ser resolvido]. O [o nome do produto] é [a categoria do produto] que [o benefício-chave, razão para adquiri-lo]. Diferentemente de [alternativa da concorrência], o nosso produto [a diferença-chave].
-
-Para freelancers que trabalham em diversos projetos, cujo desafio é gerenciar tarefas, priorizar atividades, manter o foco e medir o custo de cada projeto com precisão. O ToDoZ é um software de gerenciamento de tarefas e tempo baseado na técnica de pomodoro e método de Eisenhower, que melhora a concentração, aumenta a produtividade e permite um melhor planejamento financeiro. Diferentemente de outras opções no mercado, nosso produto oferece uma solução completa e eficiente para o dia a dia do freelancer.
-
+> O “UaiFood” é um software de relacionamento direto entre o produtor e o revendedor sem a necessidade de intermediários distribuidores, tornando assim o produto mais baratos para comercializar.
 
 ## Etapa 1: Requisitos do produto
 
