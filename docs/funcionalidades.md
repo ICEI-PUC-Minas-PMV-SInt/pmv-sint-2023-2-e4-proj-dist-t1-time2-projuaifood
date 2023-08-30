@@ -70,6 +70,4 @@
 | Rastreamento de Pedidos | - | Sim |
 | Dados de Produção | - | Sim |
 
-Nesse contexto, as funcionalidades do UaiFood foram redesenhadas para atender às necessidades e expectativas das personas Maria Emília e José Duarte, os agricultores familiares. Cada funcionalidade foi projetada para resolver problemas específicos das personas, proporcionando benefícios diretos para suas atividades no contexto do e-commerce agrícola.
-
 [Retorna](../README.md)
