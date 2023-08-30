@@ -1,14 +1,11 @@
 # Personas
 
-> Identifique as principais personas e descreva suas atividades, respondendo às seguintes perguntas:
-> qual é o perfil de cada persona? O que elas esperam do produto de software?
+## Persona 1: Maria Emília, a Agricultora
 
-## Persona 1: Ana, a Designer Freelancer
+- **Perfil:** Maria Emília é agricultora, tem 42 anos, classe baixa, brasileira, mãe de três filhos, mora em Belo Horizonte (MG) e trabalha com a agricultura familiar produzindo em seu quintal hortaliças e leguminosas. 
+- **Expectativas:** Maria Emília tem como principal objetivo, conseguir vender sua produção de maneira mais acessível. Lamenta quando sai para vender seus produtos e volta com sobras para casa. Ela almeja um produto que a possibilite escoar sua produção de maneira ampla, simples e funcional.
+- **Atividades:** Maria Emília prioriza sua produção conforme demanda, gostaria de obter uma agenda para se organizar em suas atividades. 
 
-- **Perfil:** Ana é uma designer gráfica freelancer com vasta experiência em branding e identidade visual. Ela trabalha de forma independente e gerencia vários projetos simultaneamente.
-- **Expectativas:** Ana espera que o produto de software seja uma solução completa para o gerenciamento de suas tarefas e tempo. Ela deseja uma interface intuitiva que facilite o registro, atualização e remoção de tarefas, além de uma funcionalidade de cronometragem baseada na técnica de pomodoro para melhorar sua concentração e produtividade. Ela também espera que o software permita priorizar suas atividades com base no método de Eisenhower e ofereça a integração com o Google Calendar para uma melhor organização de suas atividades diárias.
-
-- **Atividades:** Ana utiliza o software para criar e monitorar suas tarefas em diferentes projetos, utiliza a técnica de pomodoro para manter o foco e evitar distrações, prioriza suas atividades com base na importância e urgência, e integra o calendário do Google para melhorar sua programação e cumprir prazos.
 
 ## Persona 2: Carlos, o Cliente Empreendedor
 
