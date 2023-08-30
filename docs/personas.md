@@ -13,4 +13,12 @@
 - **Expectativas:** O grande desafio do José Duarte é conseguir escoar toda a sua produção, pois ele e sua família dedicam o tempo integral no cultivo das leguminosas e criação de patos. Tem vontade de voltar a estudar e ter um melhor conhecimento em tecnologias que agreguem valor ao seu negócio.
 - **Atividades:** José Duarte faz sua administração de forma manual, gostaria de obter meios digitais para realizar esta tarefa e assim conseguir tempo para voltar estudar.  
 
+## Persona 3: João Alberto o Comerciante
+- **Perfil:**
+- **Expectativas:**
+- **Atividades:**
+
+
+
+
 [Retorna](../README.md)
