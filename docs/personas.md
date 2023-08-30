@@ -2,7 +2,7 @@
 
 ## Persona 1: Maria Emília, a Agricultora
 
-- **Perfil:** Maria Emília é agricultora, tem 42 anos, classe baixa, brasileira, mãe de três filhos, mora em Belo Horizonte (MG) e trabalha com a agricultura familiar produzindo em seu quintal hortaliças e leguminosas. 
+- **Perfil:** Maria Emília é agricultora, tem 42 anos, classe baixa, brasileira, mãe de três filhos, mora em Belo Horizonte (MG) e trabalha com a agricultura familiar produzindo em seu quintal hortaliças e leguminosas.Ela gosta de trabalhar com a terra e se dedica também a criar galinhas. Tem profundo respeito com a natureza e gosta de cachorro. Ama os filhos e marido, adepta a novidades no mercado que possa facilitar o seu trabalho, gosta de ler, ver programas sobre agricultura na TV e passear com a família no parque. 
 - **Expectativas:** Maria Emília tem como principal objetivo, conseguir vender sua produção de maneira mais acessível. Lamenta quando sai para vender seus produtos e volta com sobras para casa. Ela almeja um produto que a possibilite escoar sua produção de maneira ampla, simples e funcional.
 - **Atividades:** Maria Emília prioriza sua produção conforme demanda, gostaria de obter uma agenda para se organizar em suas atividades. 
 
