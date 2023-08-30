@@ -1,4 +1,4 @@
-# Funcionalidades
+<!--# Funcionalidades
 
 > Identifique as ações e/ou as interações de cada persona no produto. Descreva as 
 > funcionalidades a partir das questões: o usuário está tentando fazer algo, então o 
@@ -35,5 +35,41 @@
 | Avaliação de Desempenho | - | Sim |
 | Integração com Pagamento | - | Sim |
 | Comunicação com Freelancers | - | Sim |
+-->
+
+# Funcionalidades do UaiFood
+
+## Funcionalidades para Maria Emília, a Agricultora Familiar:
+
+1. Publicar Produtos: Permite a Maria Emília cadastrar e publicar seus produtos agrícolas no UaiFood, ampliando sua visibilidade no mercado local.
+2. Gestão de Estoque Simplificada: Oferece uma maneira fácil de Maria Emília acompanhar seu estoque de produtos, evitando perdas e facilitando o planejamento de produção.
+3. Conexão Direta com Revendedores: Possibilita que Maria Emília estabeleça contato direto com revendedores locais, garantindo uma venda mais eficaz e eliminando intermediários.
+4. Notificações de Interesse: Recebe notificações quando um revendedor demonstra interesse por seus produtos, otimizando seu processo de vendas.
+5. Histórico de Vendas: Mantém um registro das vendas realizadas, permitindo a Maria Emília uma visão clara de suas transações passadas.
+
+## Funcionalidades para José Duarte, o Agricultor Familiar:
+
+1. Catálogo de Produtos: Permite a José Duarte criar um catálogo online dos produtos que ele cultiva, facilitando sua exposição a potenciais compradores.
+2. Agenda de Entregas: Ajuda José Duarte a programar e acompanhar as entregas de seus produtos, garantindo uma distribuição eficiente.
+3. Comunicação com Compradores: Oferece um canal de comunicação direto com os compradores, permitindo que José Duarte tire dúvidas, receba feedback e negocie condições.
+4. Rastreamento de Pedidos: Permite que José Duarte e os compradores acompanhem o status das entregas, garantindo uma experiência transparente.
+5. Dados de Produção: Mantém um registro das quantidades produzidas ao longo do tempo, auxiliando José Duarte no planejamento futuro.
+
+## Tabela de Funcionalidades:
+
+| Funcionalidades | Maria Emília | José Duarte |
+|-----------------|--------------|-----------------|
+| Publicar Produtos | Sim | Sim |
+| Gestão de Estoque Simplificada | Sim | Sim |
+| Conexão Direta com Revendedores | Sim | - |
+| Notificações de Interesse | Sim | - |
+| Histórico de Vendas | Sim | - |
+| Catálogo de Produtos | - | Sim |
+| Agenda de Entregas | - | Sim |
+| Comunicação com Compradores | - | Sim |
+| Rastreamento de Pedidos | - | Sim |
+| Dados de Produção | - | Sim |
+
+Nesse contexto, as funcionalidades do UaiFood foram redesenhadas para atender às necessidades e expectativas das personas Maria Emília e José Duarte, os agricultores familiares. Cada funcionalidade foi projetada para resolver problemas específicos das personas, proporcionando benefícios diretos para suas atividades no contexto do e-commerce agrícola.
 
 [Retorna](../README.md)
