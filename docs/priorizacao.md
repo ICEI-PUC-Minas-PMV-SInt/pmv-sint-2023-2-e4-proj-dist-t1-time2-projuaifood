@@ -1,4 +1,4 @@
-# Priorização das Funcionalidades
+<!--# Priorização das Funcionalidades
 
 > Priorize as funcionaliades do produto utilizando o método MoSCoW com as categorias de priorização do MoSCoW:
 > - Must have (Deve ter): Funcionalidades essenciais e obrigatórias que atendem a necessidades críticas das personas.
@@ -27,3 +27,24 @@
 |                        | Comunicação com Freelancers  | Carlos | Could have   | A comunicação integrada com os freelancers também pode ser adiada para versões futuras, considerando que Carlos já terá um MVP com funcionalidades essenciais para gerenciar sua equipe e projetos |
 
 [Retorna](../README.md)
+-->
+
+# Priorização das Funcionalidades
+
+**Roadmap de Produto - Sprints de duração de 1 Mês:**
+
+| Sprint 1 | Funcionalidade                      | Persona          | Priorização  | Justificativa                                                                                                                                                                                                                     |
+|----------|------------------------------------|------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint 1 - Semana 1-4 | Publicar Produtos          | Maria Emília | Must have    | Essencial para permitir que Maria Emília cadastre e exponha seus produtos no UaiFood, expandindo sua visibilidade no mercado.                                         |
+|                        | Gestão de Estoque Simplificada | Maria Emília | Must have    | Importante para Maria Emília controlar seu estoque com facilidade, evitando perdas e planejando melhor sua produção.                                              |
+|                        | Registro de Tarefas             | José Duarte   | Could have   | Enquanto o foco principal é atender Maria Emília, podemos considerar a inclusão dessa funcionalidade para José Duarte, ajudando-o a acompanhar suas tarefas. |
+|                        | Cronômetro Pomodoro             | José Duarte   | Could have   | Embora não seja a prioridade, a inclusão do cronômetro Pomodoro pode ser considerada como uma opção para José Duarte melhorar sua produtividade.               |
+
+| Sprint 2 | Funcionalidade                  | Persona          | Priorização  | Justificativa                                                                                                                                                    |
+|----------|--------------------------------|------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint 2 - Semana 5-8 | Catálogo de Produtos    | José Duarte   | Must have    | Essencial para permitir que José Duarte exponha seus produtos cultivados em um catálogo online, facilitando a visualização por parte dos compradores.          |
+|                        | Agenda de Entregas      | José Duarte   | Must have    | Importante para José Duarte programar e rastrear as entregas de seus produtos, garantindo uma distribuição eficiente e pontual.                                |
+|                        | Comunicação com Compradores | José Duarte   | Should have  | Permitirá que José Duarte se comunique diretamente com os compradores, respondendo a perguntas e estabelecendo um relacionamento mais próximo.                 |
+|                        | Avaliação de Desempenho    | Maria Emília | Could have   | Embora não seja uma prioridade imediata, a avaliação de desempenho pode ser considerada para Maria Emília no futuro, proporcionando insights sobre suas vendas. |
+
+Neste roadmap, foi dada prioridade às funcionalidades mais relevantes para cada persona dentro do UaiFood. As funcionalidades essenciais ("Must have") para Maria Emília e José Duarte foram identificadas e agrupadas nas respectivas sprints, enquanto as funcionalidades menos essenciais ("Could have") foram consideradas para inclusão em versões futuras. Além disso, algumas funcionalidades foram incluídas com foco específico em uma persona, considerando suas necessidades e prioridades. Isso permite que o UaiFood seja desenvolvido de forma iterativa, entregando valor aos usuários de maneira gradual.
