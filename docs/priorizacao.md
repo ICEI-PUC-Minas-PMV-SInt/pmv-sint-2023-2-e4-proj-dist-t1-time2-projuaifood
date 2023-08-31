@@ -29,22 +29,24 @@
 [Retorna](../README.md)
 -->
 
+Desculpe pelo erro anterior. Aqui está a tabela corrigida para o Roadmap de Produto do UaiFood, com as funcionalidades relacionadas:
+
 # Priorização das Funcionalidades
 
 **Roadmap de Produto - Sprints de duração de 1 Mês:**
 
-| Sprint 1 | Funcionalidade                      | Persona          | Priorização  | Justificativa                                                                                                                                                                                                                     |
-|----------|------------------------------------|------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint 1 - Semana 1-4 | Publicar Produtos          | Maria Emília | Must have    | Essencial para permitir que Maria Emília cadastre e exponha seus produtos no UaiFood, expandindo sua visibilidade no mercado.                                         |
-|                        | Gestão de Estoque Simplificada | Maria Emília | Must have    | Importante para Maria Emília controlar seu estoque com facilidade, evitando perdas e planejando melhor sua produção.                                              |
-|                        | Registro de Tarefas             | José Duarte   | Could have   | Enquanto o foco principal é atender Maria Emília, podemos considerar a inclusão dessa funcionalidade para José Duarte, ajudando-o a acompanhar suas tarefas. |
-|                        | Cronômetro Pomodoro             | José Duarte   | Could have   | Embora não seja a prioridade, a inclusão do cronômetro Pomodoro pode ser considerada como uma opção para José Duarte melhorar sua produtividade.               |
+| Sprint 1 | Funcionalidade                     | Persona       | Priorização  | Justificativa                                                                                                                                                                                                 |
+|----------|-----------------------------------|---------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint 1 - Semana 1-4 | Publicar Produtos            | Maria Emília | Must have    | Essencial para permitir que Maria Emília cadastre e exponha seus produtos no UaiFood, expandindo sua visibilidade no mercado.                       |
+|                        | Gestão de Estoque Simplificada | Maria Emília | Must have    | Importante para Maria Emília controlar seu estoque com facilidade, evitando perdas e planejando melhor sua produção.                                |
+|                        | Conexão Direta com Revendedores | Maria Emília | Should have  | Embora seja relevante, a conexão direta com revendedores pode ser priorizada posteriormente após a implementação das funcionalidades 'Must have'. |
+|                        | Notificações de Interesse       | Maria Emília | Should have  | Similar à funcionalidade anterior, as notificações podem ser consideradas como um recurso a ser implementado após as prioridades principais.         |
 
-| Sprint 2 | Funcionalidade                  | Persona          | Priorização  | Justificativa                                                                                                                                                    |
-|----------|--------------------------------|------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint 2 - Semana 5-8 | Catálogo de Produtos    | José Duarte   | Must have    | Essencial para permitir que José Duarte exponha seus produtos cultivados em um catálogo online, facilitando a visualização por parte dos compradores.          |
-|                        | Agenda de Entregas      | José Duarte   | Must have    | Importante para José Duarte programar e rastrear as entregas de seus produtos, garantindo uma distribuição eficiente e pontual.                                |
-|                        | Comunicação com Compradores | José Duarte   | Should have  | Permitirá que José Duarte se comunique diretamente com os compradores, respondendo a perguntas e estabelecendo um relacionamento mais próximo.                 |
-|                        | Avaliação de Desempenho    | Maria Emília | Could have   | Embora não seja uma prioridade imediata, a avaliação de desempenho pode ser considerada para Maria Emília no futuro, proporcionando insights sobre suas vendas. |
+| Sprint 2 | Funcionalidade                | Persona       | Priorização  | Justificativa                                                                                                                                                                   |
+|----------|------------------------------|---------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint 2 - Semana 5-8 | Catálogo de Produtos  | José Duarte | Must have    | Essencial para permitir que José Duarte exponha seus produtos cultivados em um catálogo online, facilitando a visualização por parte dos compradores.                  |
+|                        | Agenda de Entregas    | José Duarte | Must have    | Importante para José Duarte programar e rastrear as entregas de seus produtos, garantindo uma distribuição eficiente e pontual.                                          |
+|                        | Comunicação com Compradores | José Duarte | Should have  | Permitirá que José Duarte se comunique diretamente com os compradores, respondendo a perguntas e estabelecendo um relacionamento mais próximo.                           |
+|                        | Rastreamento de Pedidos | José Duarte | Could have   | Embora não seja uma prioridade imediata, o rastreamento de pedidos pode ser considerado para futuras versões, visando melhorar a experiência do usuário.                 |
 
-Neste roadmap, foi dada prioridade às funcionalidades mais relevantes para cada persona dentro do UaiFood. As funcionalidades essenciais ("Must have") para Maria Emília e José Duarte foram identificadas e agrupadas nas respectivas sprints, enquanto as funcionalidades menos essenciais ("Could have") foram consideradas para inclusão em versões futuras. Além disso, algumas funcionalidades foram incluídas com foco específico em uma persona, considerando suas necessidades e prioridades. Isso permite que o UaiFood seja desenvolvido de forma iterativa, entregando valor aos usuários de maneira gradual.
+Neste roadmap revisado, as funcionalidades 'Registro de Tarefas' e 'Cronômetro Pomodoro' foram removidas para refletir o contexto específico do UaiFood. As prioridades foram ajustadas de acordo com as necessidades e personas dentro do UaiFood, e funcionalidades adicionais foram incluídas ou adiadas com base nas prioridades e no valor para os usuários.
