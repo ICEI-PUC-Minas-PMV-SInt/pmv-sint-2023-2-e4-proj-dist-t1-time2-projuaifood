@@ -7,6 +7,18 @@
 
 > O “UaiFood” é um software de relacionamento direto entre o produtor e o revendedor sem a necessidade de intermediários distribuidores, tornando assim o produto mais baratos para comercializar.
 
+## Integrantes
+
+* Luana Berato dos Santos
+* Isadora Cristina Bittencourt
+* Vinícius Gomes Rangel
+* Márcia Aparecida Albergaria de Carvalho
+
+## Professor e Assistente
+
+* Luiz Alberto Ferreira Gomes
+* Zulka Iale Moreira Ferreira
+
 ## Etapa 1: Requisitos do produto
 
 * [Problemas e dores atuais](docs/problemas.md)
