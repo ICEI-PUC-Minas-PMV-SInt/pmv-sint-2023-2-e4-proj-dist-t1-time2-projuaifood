@@ -1,6 +1,6 @@
 # Expectativas
 
-Pré-requisitos:[Funcionalidades](../README.md)
+Pré-requisitos:[Funcionalidades](docs/funcionalidades.md)
 
 > As expectativas em relação ao produto são definidas com base nas necessidades e problemas identificados no cenário atual. Os usuários almejam soluções que simplifiquem e melhorem o processo de conexão entre pequenos produtores e revendedores. As possibilidades esperadas incluem:
 1. Interface Intuitiva e Eficiente:
