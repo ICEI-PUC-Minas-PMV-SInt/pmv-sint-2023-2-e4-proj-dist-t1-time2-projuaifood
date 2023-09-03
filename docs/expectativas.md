@@ -1,17 +1,17 @@
 # Expectativas
 
-> Neste momento, concentre-se em descrever as expectativas para o produto, sem entrar em detalhes
-> sobre a solução. Enumere as possibilidades que auxiliam a resolver os problemas e dificuldades dos usuários no
-> no cenário correntes, respondendo às perguntas: quais são as expectativas em relação ao produto? Aonde você
-> almeja chegar com ele?
+> As expectativas em relação ao produto são definidas com base nas necessidades e problemas identificados no cenário atual. Os usuários almejam soluções que simplifiquem e melhorem o processo de conexão entre pequenos produtores e revendedores. As possibilidades esperadas incluem:
+1. Interface Intuitiva e Eficiente:
+Uma interface de usuário intuitiva que facilite a interação tanto para os produtores quanto para os revendedores.
+Uma experiência de usuário agradável que torne o uso do software simples e acessível.
+2. Visão Clara do Custo de Projetos:
+Uma funcionalidade que oferece aos usuários uma visão clara e precisa do custo de cada projeto, auxiliando na precificação adequada.
+3. Solução Completa para Freelancers:
+Uma solução abrangente que atenda às necessidades específicas dos freelancers, otimizando seus fluxos de trabalho e aumentando sua produtividade.
+Recursos que permitam aos freelancers gerenciar projetos, prazos, comunicação com clientes e acompanhamento de atividades em um só lugar.
 
-1. Espera-se uma interface intuitiva e fácil de usar para o gerenciamento eficiente de tarefas e projetos.
-2. Os usuários desejam a integração de uma técnica de pomodoro que melhore o foco e a produtividade nas atividades.
-3. A possibilidade de priorizar tarefas usando o método de Eisenhower, auxiliando na gestão do tempo e esforço.
-4. Espera-se uma funcionalidade de cronometragem precisa para medir o tempo dedicado a cada tarefa.
-5. Integração com o Google Calendar para visualização e sincronização das atividades e prazos.
-6. Os usuários desejam uma visão clara do custo de cada projeto com base nas horas cronometradas.
-7. Espera-se uma solução completa que atenda às demandas específicas dos freelancers, otimizando seu fluxo de trabalho e produtividade.
+- O objetivo final do produto é criar uma plataforma que simplifique e melhore significativamente a relação entre produtores e revendedores, proporcionando uma maneira direta e eficaz de conectar oferta e demanda. Através da implementação dessas expectativas, o software busca se tornar a escolha preferida para pequenos produtores e revendedores, agregando valor aos seus negócios e contribuindo para uma cadeia de fornecimento mais eficiente e sustentável.
+
 
 [Retorna](../README.md)
 
