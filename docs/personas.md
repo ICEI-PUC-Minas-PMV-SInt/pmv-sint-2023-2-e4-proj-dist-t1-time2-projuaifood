@@ -1,5 +1,5 @@
 # Personas
-Pré-requisitos: ![Visão do Produto}(https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/blob/main/README.md)
+<span style="color:red">Pré-requisitos: <a href="README.md"> Visão do Produto</a></span>
 
 ## Persona 1: Maria Emília, a Agricultora Familiar
 
