@@ -1,5 +1,5 @@
 # Personas
-<span style="color:red">Pré-requisitos: <a href="README.md"> Visão do Produto</a></span>
+[Visão do Produto](../README.md)
 
 ## Persona 1: Maria Emília, a Agricultora Familiar
 
