@@ -1,6 +1,8 @@
 
 O "UaiFood" é um software de relacionamento direto entre pequenos produtores agrícolas e revendedores locais, eliminando a necessidade de intermediários distribuidores. Isso possibilita que os produtos frescos e saudáveis dos produtores cheguem aos revendedores a preços mais acessíveis, aumentando a lucratividade para ambos os lados.
 
+Pré-requisitos:[Personas](../README.md)
+
 # Problemas e Dores  Relacionados ao Software UaiFood: 
 1.  Dificuldade de Acesso ao Mercado: Pequenos produtores enfrentam dificuldades para acessar o mercado e encontrar revendedores dispostos a comprar seus produtos, o que resulta em perda de oportunidades de venda e gera sobras e prejuízos.
 2. Falta de Conexão Direta: Produtores e revendedores muitas vezes não têm um canal direto de comunicação, levando a atrasos nas negociações e dificuldade em acordar preços justos.
@@ -18,7 +20,7 @@ O "UaiFood" é um software de relacionamento direto entre pequenos produtores ag
 - Rastreamento de produtos para garantir a qualidade e frescor.
 - Ferramentas para comunicação e negociação entre as partes envolvidas.
 
-# Solucionando Essas Dores com o Software "UaiFood":
+# Solucionando Essas Dores com o Software UaiFood:
 1. Plataforma de Conexão Direta: O software oferece uma plataforma online que permite que produtores e revendedores se conectem e negociem diretamente, facilitando o acesso ao mercado.
 2. Comunicação em Tempo Real: O sistema oferece ferramentas de comunicação em tempo real, possibilitando a negociação imediata de preços, quantidades e detalhes de entrega.
 3. Logística Simplificada: O software oferece recursos para agendar e rastrear entregas, tornando a logística mais eficiente e reduzindo a chance de erros.
