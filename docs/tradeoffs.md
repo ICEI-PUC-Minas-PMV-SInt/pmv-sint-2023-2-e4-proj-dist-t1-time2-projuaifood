@@ -1,5 +1,7 @@
 # Trade-offs de Características de Qualidade
 
+Pré-requisitos:<a href="funcionalidades.md"> Funcionalidades</a>
+
 As categorias de requisitos não-funcionais para o produto de software "FocusFlow", conforme o modelo FURPS+, seriam:
 
 1. **Usabilidade**: 
