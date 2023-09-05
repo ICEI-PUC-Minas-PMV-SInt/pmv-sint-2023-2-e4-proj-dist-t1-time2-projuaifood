@@ -4,23 +4,31 @@ As categorias de requisitos não-funcionais para o produto de software "FocusFlo
 
 1. **Usabilidade**: 
    
-   a. O sistema deve ser fácil de usar com uma interface intuitiva e amigável, permitindo que 90% dos usuários realizem tarefas sem precisar de assistência após uma única sessão de treinamento.
+   a. O sistema deve ser simples de usar, com uma interface intuitiva e acessível, onde para realizar ações, os usuários não necessitem de assessoria extra após o treinamento inicial para uso do software.
+
+   b. O sistema deve responder de forma clara e intuitiva a erros de usuários.
 
 2. **Desempenho**: 
    
-   a. O sistema deve ser altamente responsivo às ações do usuário, garantindo que o tempo de resposta para qualquer interação não ultrapasse 2 segundos, independentemente do número de tarefas que está sendo gerenciado.
+   a. O sistema deve ser capaz de lidar com um grande número de usuários e transações simultâneas sem comprometer o desempenho, permitindo que a resposta a qualquer diálogo, não exceda a 3 segundos.
 
-   b. O sistema deve possuir escalabilidade horizontal através do desacoplamento, alcançada pela implementação de APIs RESTful.
+   b. O sistema deve ter a escalabilidade horizontal por meio de desacoplamento, através da implementação de APIs RESTful.
 
 3. **Confiabilidade**: 
    
-   a. O sistema deve ser robusto e livre de erros, sendo equipado com mecanismos para enfrentar falhas, garantir a recuperação de dados e assegurar uma disponibilidade de 99,9%, o que significa que ele não deve exceder 8,76 horas de inatividade por ano.
+   a. O sistema deve ter mecanismos para conter falhas, garantindo a recuperação de dados, e assegurar uma disponibilidade de 99,9%, o que significa que ele não deve exceder 8,76 horas de inatividade por ano.
    
-   b. O sistema deve requerer a autenticação de usuários para acessar suas tarefas e configurações pessoais, suportando um mecanismo robusto, como autenticação de dois fatores, para garantir acesso seguro às informações. Em relação à segurança, após três tentativas de login falhas, o usuário é bloqueado temporariamente para evitar tentativas de força bruta. Além disso, as senhas são armazenadas com segurança usando técnicas de hash e sal.
+   b. O sistema deve propor autenticação de usuários para ter acessibilidade as configurações pessoais e tarefas, propondo um sistema confiável, como a autenticação em dois fatores. No que se refere à segurança, após a terceira tentativa de login falho, o usuário é bloqueado provisoriamente com a finalidade de evitar tentativas desgastantes aos usuários. Como um agregador de confiabilidade, as senhas deverão ser armazenadas com segurança usando o método hash e sal.
+
+   c. O sistema deverá garantir que o processo de Backup esteja funcionando e que em decorrer de queda de rede, ele deve recuperar os dados já importados e continuar a partir do ponto em que ocorreu a falha. 
 
 4. **Suportabilidade**: 
    
-   a. O sistema deve ser projetado de forma a facilitar futuras atualizações e manutenção, garantindo que todas as solicitações de suporte sejam respondidas dentro de 24 horas.
+   a. A instalação do software deve ser realizada de forma semiautomática, com o mínimo de intervenção humana.
+
+   b. O sistema deve rodar a partir dos principais navegadores existentes.
+
+   c. O sistema deve ser projetado visando proporcionar atualizações e manutenções, possibilitando que todas as solicitações de suporte sejam atendidas em um decurso de no máximo 36 horas corridas.
 
 A importância relativa de cada categoria:
 
