@@ -55,19 +55,33 @@
 4. Rastreamento de Pedidos: Permite que José Duarte e os compradores acompanhem o status das entregas, garantindo uma experiência transparente.
 5. Dados de Produção: Mantém um registro das quantidades produzidas ao longo do tempo, auxiliando José Duarte no planejamento futuro.
 
+## Funcionalidades para João Alberto, o Comerciante:
+
+1. Compra Direta de Produtos: Permite que João Alberto compre produtos diretamente de pequenos produtores cadastrados no UaiFood, garantindo um suprimento constante de produtos frescos e saudáveis para seu negócio.
+2. Acompanhamento de Preços e Disponibilidade: Oferece a João Alberto a capacidade de monitorar os preços e a disponibilidade dos produtos de forma contínua, permitindo-lhe tomar decisões de compra informadas.
+3. Agenda de Pedidos Recorrentes: Permite que João Alberto configure pedidos recorrentes de produtos, garantindo que ele receba os itens necessários de forma consistente e evitando a falta de produtos em seu estoque.
+4. Relatórios de Desempenho de Fornecedores: Fornece relatórios detalhados sobre o desempenho dos fornecedores de produtos, ajudando João Alberto a avaliar a confiabilidade e a qualidade dos produtos de diferentes produtores.
+5. Integração com Sistema de Pagamento: Oferece integração com sistemas de pagamento, permitindo que João Alberto faça pagamentos de forma conveniente aos produtores diretamente através da plataforma UaiFood.
+
 ## Tabela de Funcionalidades:
 
-| Funcionalidades | Maria Emília | José Duarte |
-|-----------------|--------------|-----------------|
-| Publicar Produtos | Sim | Sim |
-| Gestão de Estoque Simplificada | Sim | Sim |
-| Conexão Direta com Revendedores | Sim | - |
-| Notificações de Interesse | Sim | - |
-| Histórico de Vendas | Sim | - |
-| Catálogo de Produtos | - | Sim |
-| Agenda de Entregas | - | Sim |
-| Comunicação com Compradores | - | Sim |
-| Rastreamento de Pedidos | - | Sim |
-| Dados de Produção | - | Sim |
+| Funcionalidades | Maria Emília | José Duarte | João Alberto |
+|-----------------|--------------|-----------------|-----------------|
+| Publicar Produtos | Sim | Sim | - |
+| Gestão de Estoque Simplificada | Sim | Sim | - |
+| Conexão Direta com Revendedores | Sim | - | - |
+| Notificações de Interesse | Sim | - | - |
+| Histórico de Vendas | Sim | - | - |
+| Catálogo de Produtos | - | Sim | - |
+| Agenda de Entregas | - | Sim | - |
+| Comunicação com Compradores | - | Sim | - |
+| Rastreamento de Pedidos | - | Sim | - |
+| Dados de Produção | - | Sim | - |
+| Compra Direta de Produtos | - | - | Sim |
+| Acompanhamento de Preços e Disponibilidade | - | - | Sim |
+| Agenda de Pedidos Recorrentes | - | - | Sim |
+| Relatórios de Desempenho de Fornecedores | - | - | Sim |
+| Integração com Sistema de Pagamento | - | - | Sim |
+
 
 [Retorna](../README.md)
