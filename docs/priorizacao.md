@@ -29,8 +29,6 @@
 [Retorna](../README.md)
 -->
 
-Desculpe pelo erro anterior. Aqui está a tabela corrigida para o Roadmap de Produto do UaiFood, com as funcionalidades relacionadas:
-
 # Priorização das Funcionalidades
 
 **Roadmap de Produto - Sprints de duração de 1 Mês:**
@@ -41,6 +39,7 @@ Desculpe pelo erro anterior. Aqui está a tabela corrigida para o Roadmap de Pro
 |                        | Gestão de Estoque Simplificada | Maria Emília | Must have    | Importante para Maria Emília controlar seu estoque com facilidade, evitando perdas e planejando melhor sua produção.                                |
 |                        | Conexão Direta com Revendedores | Maria Emília | Should have  | Embora seja relevante, a conexão direta com revendedores pode ser priorizada posteriormente após a implementação das funcionalidades 'Must have'. |
 |                        | Notificações de Interesse       | Maria Emília | Should have  | Similar à funcionalidade anterior, as notificações podem ser consideradas como um recurso a ser implementado após as prioridades principais.         |
+|                        | Compra Direta de Produtos       | João Alberto  | Must have    | Essencial para permitir que João Alberto compre produtos diretamente de pequenos produtores no UaiFood, garantindo um suprimento constante de produtos frescos.  |
 
 | Sprint 2 | Funcionalidade                | Persona       | Priorização  | Justificativa                                                                                                                                                                   |
 |----------|------------------------------|---------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -48,5 +47,4 @@ Desculpe pelo erro anterior. Aqui está a tabela corrigida para o Roadmap de Pro
 |                        | Agenda de Entregas    | José Duarte | Must have    | Importante para José Duarte programar e rastrear as entregas de seus produtos, garantindo uma distribuição eficiente e pontual.                                          |
 |                        | Comunicação com Compradores | José Duarte | Should have  | Permitirá que José Duarte se comunique diretamente com os compradores, respondendo a perguntas e estabelecendo um relacionamento mais próximo.                           |
 |                        | Rastreamento de Pedidos | José Duarte | Could have   | Embora não seja uma prioridade imediata, o rastreamento de pedidos pode ser considerado para futuras versões, visando melhorar a experiência do usuário.                 |
-
-Neste roadmap revisado, as funcionalidades 'Registro de Tarefas' e 'Cronômetro Pomodoro' foram removidas para refletir o contexto específico do UaiFood. As prioridades foram ajustadas de acordo com as necessidades e personas dentro do UaiFood, e funcionalidades adicionais foram incluídas ou adiadas com base nas prioridades e no valor para os usuários.
+|                        | Acompanhamento de Preços e Disponibilidade | João Alberto  | Must have | Essencial para que João Alberto monitore os preços e a disponibilidade dos produtos no UaiFood, permitindo decisões de compra informadas. | 
