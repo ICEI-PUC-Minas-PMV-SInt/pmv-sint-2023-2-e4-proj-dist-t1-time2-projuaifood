@@ -75,7 +75,7 @@
 | Catálogo de Produtos | - | Sim | - |
 | Agenda de Entregas | - | Sim | - |
 | Comunicação com Compradores | - | Sim | - |
-| Rastreamento de Pedidos | - | Sim | - |
+| Rastreamento de Pedidos | - | Sim | Sim |
 | Dados de Produção | - | Sim | - |
 | Compra Direta de Produtos | - | - | Sim |
 | Acompanhamento de Preços e Disponibilidade | - | - | Sim |
