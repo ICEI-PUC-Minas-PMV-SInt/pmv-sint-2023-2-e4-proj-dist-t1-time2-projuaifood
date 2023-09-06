@@ -1,8 +1,7 @@
 # Expectativas
 
-Pré-requisitos:<a href="funcionalidades.md"> Funcionalidades</a>
+Pré-requisitos:<a href="funcionalidades.md"> Funcionalidades</a>, <a href="problemas.md"> Problemas</a> 
 
-> As expectativas em relação ao produto são definidas com base nas necessidades e problemas identificados no cenário atual. Os usuários almejam soluções que simplifiquem e melhorem o processo de conexão entre pequenos produtores e revendedores. As possibilidades esperadas incluem:
 1. Interface Intuitiva e Eficiente:
 Uma interface de usuário intuitiva que facilite a interação tanto para os produtores quanto para os revendedores.
 Uma experiência de usuário agradável que torne o uso do software simples e acessível.
