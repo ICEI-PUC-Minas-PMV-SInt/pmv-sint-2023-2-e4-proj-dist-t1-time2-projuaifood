@@ -10,7 +10,7 @@ Uma funcionalidade que oferece aos usuários uma visão clara e precisa do custo
 3. Solução Completa para Produtores:
 Uma solução abrangente que atenda às necessidades específicas dos produtores , otimizando seus fluxos de trabalho e aumentando sua produtividade.
 4. Integração com Google Agenda:
-A integração perfeita com o Google Calendar, permitindo que os usuários visualizem e sincronizem suas atividades, prazos e compromissos de maneira eficiente.
+A integração com o Google Calendar, permitindo que os usuários visualizem e sincronizem suas atividades, prazos e compromissos de maneira eficiente.
 
 Recursos que permitam aos produtores gerenciar projetos, prazos, comunicação com clientes e acompanhamento de atividades em um só lugar.
 
