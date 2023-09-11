@@ -1,5 +1,5 @@
 # Diagrama de Contexto
 
-> Elabore o diagrama de contexto utilizando a notação C4 para o seu produto de software. Esse diagrama apresenta uma visão geral da interação da aplicação arquitetada com o usuário e/ou outros sistemas necessários.  
+![Diagrama_de_contexto](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/102733574/591ada77-ab25-4ce2-8790-d5cb2703aa25)
 
-![Diagrama de Contexto do ToDoDist](figuras/diagrama-de-contexto.png)
+
