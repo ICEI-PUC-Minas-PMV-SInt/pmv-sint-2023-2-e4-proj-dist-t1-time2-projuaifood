@@ -1,5 +1,4 @@
 # Diagrama de Contêiner
 
-> Elabore o diagrama de contêiner utilizando a notação C4. Esse diagrama mostra uma visão de alto nível da arquitetura de software e como as responsabilidades são distribuídas nela. Ele também mostra as principais opções de tecnológicas e como os contêineres se comunicam entre si.
+![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/101745127/1898b70d-489d-4fbc-95a7-29811510220f)
 
-![Diagrama de Contêiner](docs/../figuras/diagrama-de-conteiner.png)
