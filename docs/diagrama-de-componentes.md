@@ -1,5 +1,5 @@
 # Diagrama de Componentes
 
-> Elabore o diagrama de componentes utilizando a notação C4. O diagrama de componentes mostra como um contêiner é composto por vários "componentes", o que são cada um desses componentes, suas responsabilidades e os detalhes de tecnologia/implementação.
 
- ![Diagrama de Componentes](figuras/diagrama-de-componentes.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/101745127/d8177ef6-8a0d-487d-8a13-122cf62a0567)
+
