@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj": {}
+    "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj": {
+    "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj",
         "projectName": "BlazorEcommerce.Shared",
-        "projectPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj",
+        "projectPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj",
         "packagesPath": "C:\\Users\\LDS053\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LDS053\\AppData\\Roaming\\NuGet\\NuGet.Config",

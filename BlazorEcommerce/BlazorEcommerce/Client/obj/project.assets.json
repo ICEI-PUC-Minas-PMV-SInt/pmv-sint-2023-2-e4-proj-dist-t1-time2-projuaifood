@@ -1793,11 +1793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
+      "projectUniqueName": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
       "projectName": "BlazorEcommerce.Client",
-      "projectPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
+      "projectPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
       "packagesPath": "C:\\Users\\LDS053\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\",
+      "outputPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LDS053\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1814,8 +1814,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj": {
-              "projectPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj"
+            "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj": {
+              "projectPath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Shared\\BlazorEcommerce.Shared.csproj"
             }
           }
         }

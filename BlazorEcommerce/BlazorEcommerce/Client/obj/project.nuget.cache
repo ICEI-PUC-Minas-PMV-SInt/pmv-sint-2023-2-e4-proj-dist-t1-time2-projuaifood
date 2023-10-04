@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I823eaU0QryniJLxy/E32Wl4WyMEdXIaVY9BCBApYl52IStxi46v5Zfcq5/buwQvUVCY0uxncCYWNT9LyXdgdg==",
+  "dgSpecHash": "0NlAjYdF5CSIwltgE/dqm7UkiqTm3IY6Pugm2zoubACgP3szHTJu3Mir4E1UoJlZmUPKneIMsokP9HbfzsYdKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\ecommerce\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
+  "projectFilePath": "C:\\Users\\LDS053\\OneDrive - Maersk Group\\Desktop\\pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LDS053\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.22\\microsoft.aspnetcore.authorization.6.0.22.nupkg.sha512",
     "C:\\Users\\LDS053\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.22\\microsoft.aspnetcore.components.6.0.22.nupkg.sha512",
