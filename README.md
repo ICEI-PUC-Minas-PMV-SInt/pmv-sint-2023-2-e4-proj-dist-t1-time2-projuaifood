@@ -41,7 +41,11 @@
 
 ### Etapa 3: Implementação e testes do produto
 
-* [Roteiro de implementação](docs/roteiro-de-implementacao.md)
+* <img width="1595" alt="products" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/68722599/3f7008b0-0e32-4cc5-bbad-90e3e7e8ddf4">
+* <img width="1636" alt="product-by-id" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/68722599/c878b23b-50c1-462a-a672-2eb5ca1bec50">
+* <img width="1627" alt="login" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/68722599/0afe5d9d-8426-4928-8145-ad4137861241">
+* <img width="1619" alt="category" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/68722599/d70164d7-0ae7-4ee3-90cb-daabafe50f39">
+* <img width="1586" alt="category-legumes" src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e4-proj-dist-t1-time2-projuaifood/assets/68722599/dd27117b-80d6-4188-9824-b76b8a88e648">
 
 ### Etapa 4: Deploy em nuvem do produto 
 
